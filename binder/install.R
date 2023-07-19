@@ -1,5 +1,4 @@
-#install.packages("quantmod")
-install.packages("quantmod_0.4-14.tar.gz", repos = NULL, type = "source")
+install.packages("quantmod")
 install.packages("dplyr")
 install.packages("plotly")
 install.packages("lubridate")
