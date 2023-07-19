@@ -1,7 +1,5 @@
-install.packages("quantmod")
 install.packages("dplyr")
-install.packages("plotly")
-install.packages("lubridate")
+install.packages("ggplot2")
 install.packages("PerformanceAnalytics")
 install.packages("highr")
 install.packages("markdown")
